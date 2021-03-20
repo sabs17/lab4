@@ -26,7 +26,7 @@ public class Main {
         ArrayList<Document> documente = new ArrayList<>();
         documente.add(xml);
 
-        Procesor c1 = new ProcesorCautare("text");
+        Procesor c1 = new ProcesorCautare("sometext");
         Procesor c2 = new ProcesorCautare("text3");
         Procesor c3 = new ProcesorCautare("text2");
 
